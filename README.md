@@ -15,7 +15,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 📫 How to reach me
 - Email: sulthansyarif784@gmail.com 
-- LinkedIn: [[your-linkedin-profile](https://www.linkedin.com/in/sulthan-syarif-177176297/)]  
+- LinkedIn: [[Sulthan Syarif](https://www.linkedin.com/in/sulthan-syarif-177176297/)]  
 - Portfolio: Coming Soon
 
 ---
