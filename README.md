@@ -10,8 +10,7 @@ Welcome to my GitHub profile! 🚀
 - 🎯 Goal: Keep growing as a developer and contribute to impactful projects  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SulthanSyarif&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SulthanSyarif&layout=compact&theme=tokyonight)
+![SulthanSyarif's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SulthanSyarif&theme=react&hide_border=true)
 
 ## 📫 How to reach me
 - Email: sulthansyarif784@gmail.com 
